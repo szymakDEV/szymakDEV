@@ -9,4 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Szymakkk)
 
+![Discord Banner 2](https://discordapp.com/api/guilds/800409527454662696/widget.png?style=banner2)
+
 [![szymakDEV](https://github-readme-stats.vercel.app/api?username=Szymakkk)](https://github.com/anuraghazra/github-readme-stats)

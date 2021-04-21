@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **szymak.biz@gmail.com**
 
-<img src="https://iv.pl/image/descriptive.GtsvpRT"></img>
+<img src="https://cdn.discordapp.com/attachments/833601054435966978/834427075057418250/20210421_155443.png"></img>

@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **szymak.biz@gmail.com**
 
-<img>https://iv.pl/image/descriptive.GtsvpRT</img>
+<img src="https://iv.pl/image/descriptive.GtsvpRT"></img>

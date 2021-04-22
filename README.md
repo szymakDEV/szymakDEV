@@ -2,9 +2,7 @@
   <code>npm install szymakDEV.js</code>
 </h2>
 
-*I am a beginner Java Script*
-
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently working at **Descriptive**
 
 - 📫 How to reach me **szymak.biz@gmail.com**
 
